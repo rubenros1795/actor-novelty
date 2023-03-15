@@ -1,0 +1,7 @@
+{
+	"model_path":"/home/rb/Documents/Data/case-studies/dh2023-novelty/model/top2vec.model",
+	"metadata_path":"/home/rb/Documents/Data/case-studies/dh2023-novelty/metadata//metadata-postwar.tsv",
+	"doc_dist_path":"/home/rb/Documents/Data/case-studies/dh2023-novelty/docdist/docdist-postwar.tsv",
+	"data_path":"/home/rb/Documents/Data/case-studies/dh2023-novelty/data/data.ndjson",
+	"novelty_output_path":"/home/rb/Documents/Data/case-studies/dh2023-novelty/output/"
+}
