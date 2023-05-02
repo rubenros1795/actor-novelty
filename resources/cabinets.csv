@@ -1,0 +1,32 @@
+startdate,enddate,cabinet,num_departments,num_ministers,coalition_parties
+09-09-1918,18-07-1922,Ruijs-I,,,
+18-07-1922,04-08-1925,Ruijs-II,,,
+04-08-1925,08-03-1926,Colijn-I,,,
+08-03-1926,10-08-1929,DeGeer-I,,,
+10-08-1929,26-05-1933,Ruijs-III,,,
+26-05-1933,31-07-1935,Colijn-II,,,
+31-07-1935,24-06-1937,Colijn-III,,,
+24-06-1937,25-07-1939,Colijn-IV,,,
+25-07-1939,10-08-1939,Colijn-V,,,
+10-08-1939,03-09-1940,DeGeer,,,
+25-06-1945,03-07-1946,Schermerhorn-Drees,14,15,rksp;sdap;vdb
+03-07-1946,07-08-1948,Beel-I,17,19,kvp;pvda
+07-08-1948,15-03-1951,Drees-Van Schaik,14,21,kvp;pvda;chu;vvd
+15-03-1951,02-09-1952,Drees-I,14,24,kvp;pvda;chu;vvd
+02-09-1952,13-10-1956,Drees-II,15,24,kvp;pvda;chu;arp
+13-10-1956,22-12-1958,Drees-III,15,24,kvp;pvda;chu;arp
+22-12-1958,19-05-1959,Beel-II,15,19,kvp;chu;arp
+19-05-1959,24-07-1963,De Quay,14,26,kvp;arp;chu
+24-07-1963,14-04-1965,Marijnen,14,26,kvp;vvd;arp;chu
+14-04-1965,14-10-1966,Cals,14,28,kvp;pvda;arp
+14-10-1966,15-02-1967,Zijlstra,14,24,kvp;arp
+15-02-1967,06-07-1971,De Jong,14,27,kvp;vvd;arp;chu
+06-07-1971,19-07-1972,Biesheuvel,14,30,kvp;vvd;arp;chu;ds70
+19-07-1972,11-05-1973,Biesheuvel II,15,29,"kvp;vvd,arp;chu"
+11-05-1973,19-12-1977,Den Uyl,15,35,pvda;kvp;arp;ppr;d66
+19-12-1977,11-09-1981,Van Agt,,,cda;vvd
+11-09-1981,29-05-1982,Van Agt II,,,cda;pvda;d66
+29-05-1982,4-11-1982,Van Agt III,,,cda;d66
+4-11-1982,14-7-1986,Lubbers,,,cda;vvd
+14-7-1986,7-11-1989,Lubbers II,,,cda;vvd
+7-11-1989,22-8-1994,Lubbers III,,,cda;pvda

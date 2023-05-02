@@ -401,6 +401,6 @@ def adaptive_filter(y, span=56):
     y_dt = np.mat([float(j) for j in y])
     _, y_smooth = detrending_method(y_dt, w, 1)
     
-    return y_smooth.T
+    return np.squeeze(np.asarray(y_smooth.T))
 
 # %%
